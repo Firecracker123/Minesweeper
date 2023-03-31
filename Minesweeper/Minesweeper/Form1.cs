@@ -37,6 +37,7 @@ namespace Minesweeper
             PictureBox[,] pictureBox = new PictureBox[10, 10];
 
             MessageBox.Show("Weee");
+            MessageBox.Show("This code is still under construction");
 
 
             for (int i = 0; i < 10; i++)
@@ -48,7 +49,7 @@ namespace Minesweeper
                     pictureBox[i, j].ImageLocation = "C:\\Users\\aidan\\OneDrive\\Documents\\Source Image\\mike.png";
                 }
             }
-            this.Controls.AddRange(pictureBox);
+           
         }
     }
 }
