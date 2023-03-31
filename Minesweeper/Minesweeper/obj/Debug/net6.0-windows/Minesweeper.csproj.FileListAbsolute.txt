@@ -1,0 +1,17 @@
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.exe
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.deps.json
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.runtimeconfig.json
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.dll
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.pdb
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form1.resources
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.GenerateResource.cache
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfo.cs
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.dll
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\refint\Minesweeper.dll
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.pdb
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.genruntimeconfig.cache
+C:\Users\aidan\source\repos\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\ref\Minesweeper.dll
